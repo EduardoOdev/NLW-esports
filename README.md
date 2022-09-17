@@ -1,4 +1,4 @@
-# NLW eSports - Trilha Explorer
+# NLW eSports - Trilha Explorer 🚀
 
 ![preview](./.github/preview.png)
 
@@ -8,11 +8,14 @@ Projeto construido do evento Next Level da Rocketseat
 
 [Clique aqui para acessar](https://eduardoodev.github.io/NLW-esports-explorer/)
 
-# Tecnologias
+# Tecnologias 💻
 
 - HTML
 - CSS
 - Git e Github
 
+# Contato ✉️
+
+duduvieiratou@outlook.com
 
 
