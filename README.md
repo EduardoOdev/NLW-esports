@@ -6,7 +6,7 @@
 
 Projeto construido do evento Next Level da Rocketseat
 
-[Clique aqui para acessar](https://eduardoodev.github.io/NLW-esports-explorer/)
+[Clique aqui para acessar]( target="_blank" https://eduardoodev.github.io/NLW-esports-explorer/)
 
 # Tecnologias 💻
 
